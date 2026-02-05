@@ -40,7 +40,7 @@ One unique feature of this app is the **Session History**:
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. **Install Dependencies:**
 You will need a few external libraries. Run the following command:
